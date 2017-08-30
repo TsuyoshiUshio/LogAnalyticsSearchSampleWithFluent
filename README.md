@@ -9,3 +9,7 @@ Please refer my blog
 
 
 [Searching Log Analytics using Azure SDK with New Simpler Library “Fluent”](https://blogs.technet.microsoft.com/livedevopsinjapan/2017/08/30/searching-log-analytics-using-azure-sdk-with-new-simpler-library-fluent/)
+
+# Usage
+
+Edit the `App.config.example` and then rename it as `App.config` then hit F5 on your Visual Studio 2017.
